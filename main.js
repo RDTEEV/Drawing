@@ -1,6 +1,6 @@
 var width = screen.width;
 new_width = screen.width - 70;
-new_height= screen.height - 300;
+new_height= screen.height - 350;
 
 if(width < 992)
 {
